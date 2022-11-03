@@ -7,7 +7,7 @@
   - Web Development
 
 <hr>
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=giannigrasso)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=giannigrasso)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 giannigrasso/giannigrasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
