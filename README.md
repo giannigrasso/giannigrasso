@@ -8,6 +8,6 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannigrasso&theme=tokyonight&layout=compact&hide_border=true&border_radius=25&custom_title=Top%20Languages&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannigrasso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
