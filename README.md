@@ -1,4 +1,4 @@
-##👋 Hi, I’m @giannigrasso
+## 👋 Hi, I’m @giannigrasso
 <hr>
 
 - 👀 I’m currently interested in
