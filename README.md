@@ -1,7 +1,7 @@
 ## 🌝 Hi there
 <hr>
 
-- I’m interested in
+- I’m currently into
   - ☕️ Java
   - 🦀 Rust
   - 🖥️ Software and Web Development
