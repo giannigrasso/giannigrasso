@@ -1,10 +1,10 @@
-## 👋 Hi, I’m @giannigrasso
+## 🌝 Hi there
 <hr>
 
-- 👀 I’m currently interested in
-  - Java & Spring
-  - PHP & Laravel
-  - Web Development
+- I’m interested in
+  - ☕️ Java
+  - 🦀 Rust
+  - 🖥️ Software and Web Development
 
 <hr>
 
