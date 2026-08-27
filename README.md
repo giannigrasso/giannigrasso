@@ -1,13 +1,7 @@
-## 🌝 Hi there
-<hr>
+# Hi there 👋🏻
 
-- I’m currently into
-  - ☕️ Java
-  - 🦀 Rust
-  - 🖥️ Software and Web Development
+### About me
 
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannigrasso&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
+- 📚 Currently studying Software Engineering at [SUPSI DTI](https://www.supsi.ch/en/web/dti/)
+- 🔭 Learning about Machine Learning systems
+- 📫 Reach me: gianni.grasso03@gmail.com
